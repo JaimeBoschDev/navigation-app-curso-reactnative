@@ -28,4 +28,8 @@ export const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: 'bold',
   },
+  subtitulo: {
+    color: 'black',
+    marginBottom: 20,
+  },
 });
